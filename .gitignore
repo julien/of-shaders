@@ -1,0 +1,11 @@
+*.DS_Store
+
+*.xcodeproj
+*.xconfig
+*.plist
+*.app
+
+*.exe
+
+emptyExample
+obj
