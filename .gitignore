@@ -5,7 +5,11 @@
 *.plist
 *.app
 
+*.qbs
+**qbs**
+
 *.exe
 
+**Debug**
 emptyExample
 obj
